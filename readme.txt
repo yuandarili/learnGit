@@ -19,4 +19,4 @@ change a new branch by git checkout xxx
 merge the two by git checkout -b xxx
 createing a new branch is quick and simple but you shoule sovle the conflict.
 
-for fast forward test
+for a fast forward test
